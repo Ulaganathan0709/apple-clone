@@ -45,18 +45,18 @@ src/
 git clone https://github.com/your-username/apple-clone.git
 cd apple-clone
 
-###  2. Install Dependencies
+2. Install Dependencies
 
 ```bash
 npm install
 
 
-### 3. Start the development server
+3. Start the development server
 
 ```bash
 npm run dev
 Then open your browser and visit: http://localhost:5173
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 This is a static UI clone for learning purposes only. All copyrights and trademarks belong to Apple Inc.
 
