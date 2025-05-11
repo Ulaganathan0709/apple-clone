@@ -19,7 +19,7 @@ function Section() {
 </div>
 
 {/* Full Width Section - MacBook Air */}
-<div className="w-full bg-[#f5f5f7] relative text-white">
+<div className="w-full bg-[#f5f5f7] relative text-white pt-4">
   <div className="relative w-full">
     <img src="images/products/MacBookAirBanner.jpg" alt="MacBook Air" className="w-full h-auto" />
     <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
