@@ -37,12 +37,18 @@ src/
 
 ---
 
+## 🔗 Live Demo
+
+[Click here to view the live site on Vercel](https://apple-clone-virid.vercel.app/)
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/apple-clone.git
+git clone https://github.com/Ulaganathan0709/apple-clone
 cd apple-clone
 
 2. Install Dependencies
